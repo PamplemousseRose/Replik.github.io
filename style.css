@@ -1,0 +1,155 @@
+html {
+scroll-behavior: smooth;
+background-color: #1A1F2C; 
+}
+
+body {
+margin: 0;
+padding: 0;
+font-family: 'Raleway', sans-serif
+background-repeat: no-repeat;
+}
+
+}
+.histoire {
+text-align: center;
+padding: 200px;
+
+}
+
+p {
+font-size: 24px;
+line-height: 50px;
+color: white;
+}
+
+.navbar {
+
+	position: fixed;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 70px;
+	background-color: #1A1F2C;
+
+}
+
+.logo {
+	width: 170px;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+
+}
+
+.link {
+	
+	color: white ;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.Presentation{
+color: #FFFFFF;
+font-size: 20px;
+background-color: #1A1F2C;
+text-align: center;
+padding: 80px;
+}
+
+img {
+width: 1500px;
+height: auto;
+
+}
+a {
+margin: 0px;
+color: #000;
+text-decoration: none;
+text-transform: uppercase;
+}
+a:hover {
+color: #000;
+}
+.service-container {
+
+	display: flex;
+	justify-content: space-around;
+	padding: 30px 0;
+}
+
+.service-card {
+	width: 250%;
+	text-align: center;
+} 
+
+
+.service-img {
+  width: 2000px;
+}
+
+h1,h2,h3,h4 {
+color: white;
+text-align: center;
+font-size: 30px;
+}
+.robot {
+	display: flex;
+	justify-content: space-around;
+	padding: 20px 0;
+}
+
+.robot-card {
+  
+	text-align: center;
+} 
+
+
+.service-img {
+  width: 600px;
+}
+
+
+.cataloguecontainer {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.servicecontainer  {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    margin-top: 50px;
+    text-align: center; 
+}
+
+.width-img{
+
+width: 200px;
+height: auto;
+}
+
+.maps{
+text-align: center;
+
+
+}
+
+.red-i{
+color: white;
+
+
+}
+.reseaux{
+text-align: center;
+
+}
+
+
